@@ -14,12 +14,18 @@
       "username": "yanz",
       "password": "1",
       "role": "member"
+    },
+    {
+      "username": "Tes",
+      "password": "1",
+      "role": "member"
     }
   ],
   "balances": {
     "yanz": 100000,
     "budi": 5000,
-    "ramz": 1000
+    "ramz": 1000,
+    "Tes": 1000
   },
   "createdCodes": [
     "1234",
