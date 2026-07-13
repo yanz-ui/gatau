@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "username": "ramz", "password": "1", "role": "owner" },
+    { "username": "budi", "password": "123", "role": "member" }
+  ],
+  "balances": {
+    "yanz": 100000,
+    "budi": 5000
+  },
+  "createdCodes": ["1234", "5678"],
+  "usedCodes": ["1234"],
+  "globalLucky": false
+}
