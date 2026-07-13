@@ -9,6 +9,11 @@
       "username": "budi",
       "password": "123",
       "role": "member"
+    },
+    {
+      "username": "yanz",
+      "password": "1",
+      "role": "member"
     }
   ],
   "balances": {
